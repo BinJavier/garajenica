@@ -1,4 +1,3 @@
 Flask
 python-dotenv
 apify-client
-psycopg2-binary  # Si usas PostgreSQL
