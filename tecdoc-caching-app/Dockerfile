@@ -14,5 +14,5 @@ COPY . .
 # Expone el puerto que usa Flask
 EXPOSE 5000
 
-# Comando para ejecutar la aplicación cuando el contenedor se inicie
+# Comando para ejecutar la aplicación
 CMD ["flask", "run", "--host=0.0.0.0"]
